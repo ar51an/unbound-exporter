@@ -2,7 +2,7 @@
 <div align="center">
 
 ![unbound](https://img.shields.io/badge/-unbound‑exporter-D8BFD8?logo=unrealengine&logoColor=3a3a3d)
-&nbsp;&nbsp;![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=ar51an.unbound-exporter&label=visitors&logo=github&color=4883c2)
+&nbsp;&nbsp;![visitors](https://img.shields.io/endpoint?color=4883c2&label=visitors&logo=github&url=https%3A%2F%2Fhits.dwyl.com%2Far51an%2Funbound-exporter.json)
 &nbsp;&nbsp;![license](https://img.shields.io/github/license/ar51an/unbound-exporter?color=CED8E1)
 </div>
 <div align="justify">
